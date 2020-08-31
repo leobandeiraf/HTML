@@ -16,6 +16,6 @@ Aqui você encontrará duas pastas: **Soluções** e **Projetos**, vou-lhes apre
 
 This repository was created with the intention of posting projects where, exclusively, the HTML5 markup language was used.
 
-Here you will find two folders: ** Solutions ** and ** Projects **, I will introduce you to them.
+Here you will find two folders: **Solutions** and **Projects**, I will introduce you to them.
 - Solutions: Here you will find documents with codes solving any question exposed in the same files. The purpose here is to show the proactivity and knowledge of this markup language to solve everyday problems.
 - Projects: Here are all my projects created with the markup language highlighted in this repository. My purpose in this folder is to show my creativity and full capacity to build tangible knowledge.
