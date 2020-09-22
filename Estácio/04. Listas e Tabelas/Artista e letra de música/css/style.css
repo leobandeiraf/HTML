@@ -1,0 +1,124 @@
+body {
+	background-color: #000;
+    color: #B48E2E;
+    font-family: 'gotham-medium';
+    font-size: 15px;
+    padding: 0;
+    margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#menu {
+	padding-bottom: 50px;
+}
+
+	#menu ul {
+		font-size: 20px;
+		text-align: center;
+	    padding:0px;
+	    margin:0px;
+	    background-color:#000;
+	    list-style:none;
+	}
+
+	#menu ul li { 
+		display: inline; 
+	}
+
+	#menu ul li a {
+	    padding: 2px 10px;
+	    display: inline-block;
+	    background-color:#000;
+	    color: #B48E2E;
+	    text-decoration: none;
+	    border-bottom:3px solid #B48E2E;
+	}
+
+	#menu ul li a:hover {
+	    background-color:#B48E2E;
+	    color: #000;
+	    border-bottom:3px solid white;
+	}
+
+#logo img {
+    max-width:220px;
+    max-height:180px;
+    width: auto;
+    height: auto;
+}
+
+.unico {
+	width: 430px;
+}
+
+.um {
+	width: 430px;
+}
+
+	.um img { 
+		display: block;
+		margin-left: auto;
+  		margin-right: auto;
+	    max-width:300px;
+	    max-height:300px;
+	    width: auto;
+	    height: auto;
+	    border: 1px solid #B48E2E;
+
+	}
+
+.separator{
+	border: 1px solid #B48E2E;
+	padding: 0px;
+}
+
+.dois {
+	width: 400px;
+	padding-left: 30px;
+}
+
+	.dois ol {
+		line-height: 28px;
+		font-size: 17px;
+	}
+
+	.dois ol li a {
+	    display: inline-block;
+	    background-color:#000;
+	    color: #B48E2E;
+	    text-decoration: none;
+	}
+
+	.dois ol li a:hover {
+	    background-color:#000;
+	    color: white;
+	    border-bottom:1px solid white;
+	}
+
+#shooter {
+	color: white;
+	opacity: 0.6;
+	font-size: 11px;
+	width: 430px;
+	padding: 30px 50px;
+}
+
+table {
+	margin: 0 auto;
+}
+
+	th {
+		padding-top: 100px;
+		padding-bottom: 30px;
+	}
+
+	/*td, th, tr {
+		border: 2px solid white;
+	}
+
+
+
+
+
+
